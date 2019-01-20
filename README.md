@@ -1,2 +1,2 @@
-# openAgular
+# openAngular
 Angular
